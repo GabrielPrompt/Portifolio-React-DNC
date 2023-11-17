@@ -6,6 +6,7 @@
 
 .card img{
     width: 500px;
+    border-radius: 20px;
 }
 
 .card img:hover{
